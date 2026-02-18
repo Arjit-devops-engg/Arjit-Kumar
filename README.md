@@ -35,9 +35,6 @@ Certifications
 - [AWS Certified Cloud Practitioner — Amazon (2025)](https://www.credly.com/badges/6322f0f1-1746-4bec-8961-adcb07bf10ac/linked_in_profile)
 - [AWS Cloud Practitioner Training — Stephane Maarek (Udemy)](https://www.udemy.com/certificate/UC-30cd5a4d-2883-4b20-85cc-761c7f419bfd/)
 - [AWS Academy Graduate - Introduction to Cloud Semester 1](https://www.credly.com/badges/598703c3-ca3c-4d91-9832-73104a583e9c/linked_in_profile)
-- Guitarist - Heartbeat Musicals
-
-Guitarist - Heartbeat Musicals
 
 Projects
 Travel Planner and Booking Application
